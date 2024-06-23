@@ -1,5 +1,3 @@
-# machine_learning_deployment
-
 Repository for ML Model Deployment Course
 
 Course Objectives:
